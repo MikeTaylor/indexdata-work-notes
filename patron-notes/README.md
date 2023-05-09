@@ -9,4 +9,5 @@
 * [Slack channel](https://app.slack.com/client/T1EPYQDAQ/C03NR4TC281/thread/C0116UH41PU-1683194233.972969)
 * [Development and test environment](https://orchid-dev1.folio-dev.indexdata.com/)
 * [ID Jira for filing hours](https://jira.indexdata.com/browse/FOL-44)
+* [Ongoing meeting-agenda/notes document](https://docs.google.com/document/d/1ANQUQZgk--njqmK3cWRQSTFXfGH9wvLQdnpoxzGxbT0/edit#)
 
