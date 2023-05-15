@@ -19,7 +19,9 @@ Hi,  @charlotte @Axel Dörrer @nielserik @mike @Cornelia Awenius and @A Mohr - I
 * [Ongoing meeting-agenda/notes document](https://docs.google.com/document/d/1ANQUQZgk--njqmK3cWRQSTFXfGH9wvLQdnpoxzGxbT0/edit#)
 * [`#indexdata-mainz-collab` Slack channel](https://app.slack.com/client/T1EPYQDAQ/C03NR4TC281/thread/C0116UH41PU-1683194233.972969)
 * [Gutenberg scrum board](https://issues.folio.org/secure/RapidBoard.jspa?rapidView=292)
-* [Development and test environment](https://orchid-dev1.folio-dev.indexdata.com/)
+* [Private development environment](http://localhost:3000/)
+* [Public demonstration environment](https://orchid-dev1.folio-dev.indexdata.com/) and the
+  [rebuild workflow](https://github.com/indexdata/platform-orchid-dev/actions/workflows/stripes-deploy.yml), remembering to run the workflow on the `dev1` branch.
 * [ID Jira for filing hours](https://jira.indexdata.com/browse/FOL-44)
 
 
